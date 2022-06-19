@@ -1,7 +1,7 @@
 # Skillstorm
 
 ### Intro to Coding
-#####About the Course
+##### About the Course
 We designed Introduction to Coding for future Stormers like you, individuals with little or no programming experience, who are considering a career as a programmer. We mapped your experience as a sequence of four distinct Quests: Object-Oriented Programming, Programming in Java, Data Structures, and Relational Databases and SQL.
 
 To achieve Stormer status, you’ll need to conquer the Levels in each Quest by crushing the challenges set up for you by your instructor. Throughout, remember to:
@@ -21,7 +21,7 @@ Becoming a Stormer means acquiring the following abilities so that, by the end o
   Integrate code and add new features into a larger application
 
 ### Object-Oriented Programming
-#####About the Course
+##### About the Course
 We designed Object-Oriented Programming for future Stormers like you: individuals with little or no programming experience who are considering careers as programmers. While you will leave this Quest with a solid understanding of data structures, keep in mind that SkillStorm has other related offerings that can complete your skills base.
 
 Complete the Quest successfully and you will be able to:
@@ -30,7 +30,7 @@ Complete the Quest successfully and you will be able to:
   Integrate code and add new features into a larger application
 
 ### Programming in Java
-#####About the Course
+##### About the Course
 We designed Programming in Java for future Stormers like you: individuals with little or no programming experience who are considering careers as programmers. While you will leave this Quest with a solid understanding of data structures, keep in mind that SkillStorm has other related offerings that can complete your skills base.
 
 Complete the Quest successfully and you will be able to:
@@ -40,7 +40,7 @@ Complete the Quest successfully and you will be able to:
   Integrate code and add new features into a larger application
 
 ### Data Structures
-#####About the Course
+##### About the Course
 We designed Data Structures for future Stormers like you: individuals with little or no programming experience who are considering careers as programmers. While you will leave this Quest with a solid understanding of data structures, keep in mind that SkillStorm has other related offerings that can complete your skills base.
 
 Complete the Quest successfully and you will be able to:
@@ -49,7 +49,7 @@ Complete the Quest successfully and you will be able to:
   Integrate code and add new features into a larger application
 
 ### Relational Databases
-#####About the Course
+##### About the Course
 We designed Relational Databases and SQL for future Stormers like you: individuals with little or no programming experience who are considering careers as programmers. While you will leave this Quest with a solid understanding of data structures, keep in mind that SkillStorm has other related offerings that can complete your skills base.
 
 Complete the Quest successfully and you will be able to:
@@ -58,15 +58,15 @@ Complete the Quest successfully and you will be able to:
   Integrate code and add new features into a larger application
 
 ### Pega
-#####About the Course
+##### About the Course
 We designed Introduction to Pega for future Stormers like you: individuals with little or no programming experience who are considering careers as Pega developers. While you will leave this Quest with a solid understanding of basic Pega concepts, keep in mind that SkillStorm has other related offerings that can complete your skills base.
 
 ### AWS
-#####About the Course
+##### About the Course
 Intro to AWS was designed for future Stormers like you: individuals who may not have a technical background, but are interested in gaining the skills they need to succeed in technology. This course will give you an exposure to the fundamentals, so keep in mind that SkillStorm has other related offerings that can complete your skills base.
 
 ### Full-Stack Java Dev
-#####About the Course
+##### About the Course
 We designed Full-Stack Developer for future Stormers like you: individuals with fundamental Java programming experience who are considering careers as full-stack application developers. The intention of this course is to give you a technical understanding in a variety of technologies and how they work together to create full-stack applications. While you will leave this Quest with a solid understanding of full-stack development, keep in mind that SkillStorm has other related offerings that can complete your skills base and increase your depth of knowledge in each of these areas. If you're looking for a more introductory-level course in Java programming, check out Introduction to Coding (Links to an external site.)!
 
 Complete the Quest successfully and you will be able to:
@@ -80,7 +80,7 @@ Complete the Quest successfully and you will be able to:
   Create a front-end single-page application using Angular.
 
 ### ServiceNow
-#####About the Course
+##### About the Course
 We designed Introduction to ServiceNow for future Stormers like you: individuals with little or no programming experience who are considering careers as Certified System Administrators. While you will leave this Quest with a solid understanding of basic ServiceNow concepts, keep in mind that SkillStorm has other related offerings that can complete your skills base.
 
 Complete the Quest successfully and you will be able to:
@@ -89,5 +89,5 @@ Complete the Quest successfully and you will be able to:
   Integrate concepts and add new features to support an organization as a Certified System Administrator.
 
 ### Cyber Security and InfoSec
-#####About the Course
+##### About the Course
 Intro to Cyber Security and InfoSec was designed for future Stormers like you: individuals who may not have a technical background, but are interested in gaining the skills they need to succeed in technology. This course will give you exposure to the fundamentals, so keep in mind that SkillStorm has other related offerings that can complete your skills base.
